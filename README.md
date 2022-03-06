@@ -1,5 +1,6 @@
 # Getting Started with Poetry App
 
+### `Clone repo to machine and run:`
 ### `$ npm i`
 ### `$ npm start`
 
