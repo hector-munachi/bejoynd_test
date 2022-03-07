@@ -8,4 +8,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##
 ### `App Demo`
-###  `https://poetry-app.netlify.app/`
+###  https://poetry-app.netlify.app/
